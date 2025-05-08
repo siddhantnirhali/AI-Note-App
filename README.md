@@ -102,15 +102,15 @@ Here's a detailed description of how the application works:
 
 ### Home Screen
 
-![Home Screen](./screenshots/note_screen.png)
+!<img src="screenshots/note_screen.png" height="480" />
 
 ### Note Detail Screen
 
 
-![Note Detail Screen]<img src="screenshots/note_screen.png" height="480" />
-[Note Detail Screen]<img src="screenshots/note_detail_screen.png" height="480" />
-![Note Detail Screen]<img src="screenshots/note_options_screen.png" height="480" />
-![Note Detail Screen]<img src="screenshots/note_reminder_screen.png" height="480" />
+!<img src="screenshots/note_screen.png" height="480" />
+<img src="screenshots/note_detail_screen.png" height="480" />
+!<img src="screenshots/note_options_screen.png" height="480" />
+<img src="screenshots/note_reminder_screen.png" height="480" />
 
 ### Note Summarization Screen
 
