@@ -34,8 +34,6 @@ class MainActivity : ComponentActivity() {
             navigationProvider.setNavController(navController)
             NoteAppTheme {
                 NavGraph(navController)
-                //HomeScreen()
-                //NoteDetailScreen(1)
             }
         }
     }

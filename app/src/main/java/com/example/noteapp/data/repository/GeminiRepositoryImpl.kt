@@ -1,5 +1,6 @@
 package com.example.noteapp.data.repository
 
+import android.util.Log
 import com.example.noteapp.damain.model.Note
 import com.google.firebase.Firebase
 import com.google.firebase.vertexai.vertexAI
@@ -22,6 +23,7 @@ class GeminiRepositoryImpl @Inject constructor(): GeminiRepository {
                 response.text ?: "No summary available."
             } catch (e: Exception) {
                 e.printStackTrace() // Log the error properly
+                Log.d("Summarization", e.toString())
                 null
             }
         }
