@@ -106,14 +106,15 @@ Here's a detailed description of how the application works:
 
 ### Note Detail Screen
 
-![Note Detail Screen](./screenshots/note_detail_screen.png)
-![Note Detail Screen](./screenshots/note_detail_screen.png)
-![Note Detail Screen](./screenshots/note_options_screen.png)
-![Note Detail Screen](./screenshots/note_reminder_screen.png)
+
+![Note Detail Screen]<img src="screenshots/note_screen.png" height="480" />
+[Note Detail Screen]<img src="screenshots/note_detail_screen.png" height="480" />
+![Note Detail Screen]<img src="screenshots/note_options_screen.png" height="480" />
+![Note Detail Screen]<img src="screenshots/note_reminder_screen.png" height="480" />
 
 ### Note Summarization Screen
 
-![Note Summarization Screen](./screenshots/note_summarization_screen.png)
+![Note Summarization Screen]<img src="screenshots/note_summarization_screen.png" height="480" />
 
 ---
 
